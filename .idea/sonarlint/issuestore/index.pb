@@ -17,3 +17,5 @@ C
 src/models/Model.ts,c\e\ce9e2a98bff6b6454d12f4d493c8dba25a637e71
 E
 src/models/ApiSync.ts,8\a\8a8571c646ed5dbfc1b8121a7ff939f6840105da
+H
+src/models/Collection.ts,8\d\8dbf0cd6b512dac8e886b7acc0dbadcd142d525f
