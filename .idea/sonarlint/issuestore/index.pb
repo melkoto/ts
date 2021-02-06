@@ -19,3 +19,8 @@ E
 src/models/ApiSync.ts,8\a\8a8571c646ed5dbfc1b8121a7ff939f6840105da
 H
 src/models/Collection.ts,8\d\8dbf0cd6b512dac8e886b7acc0dbadcd142d525f
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+E
+src/views/UserForm.ts,c\c\cceeca64d0b98092a07de5161bc50798fb4fb718
